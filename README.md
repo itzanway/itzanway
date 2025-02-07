@@ -46,10 +46,4 @@
 
 <img src="https://raw.githubusercontent.com/itzanway/itzanway/output/snake.svg" alt="Snake animation" />
 
-###
-- [![itzanway's GitHub | Stats](https://stats.quine.sh/itzanway/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=itzanway)
 
-- [![itzanway's GitHub | Languages Over Time](https://stats.quine.sh/itzanway/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=itzanway)
-
-
-###
