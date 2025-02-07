@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Anway and I'm a 3rd year Computer Science Student, from Indian Institute of Information Technology Surat</h2>
+<h1 align="center">Hi 👋, I'm Anway Durge</h1>
+<h3 align="center">A passionate student from Indian Institute of Information Technology Surat</h3>
 
 ###
 
@@ -29,8 +30,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
-<h1 align="center">Hi 👋, I'm Anway Durge</h1>
-<h3 align="center">A passionate student from Indian Institute of Information Technology Surat</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itzanway&label=Profile%20views&color=0e75b6&style=flat" alt="itzanway" /> </p>
 
