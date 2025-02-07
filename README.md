@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anway Durge</h1>
-<h3 align="center">A passionate student from Indian Institute of Information Technology Surat</h3>
+<h3 align="center">A passionate Student from Indian Institute of Information Technology Surat</h3>
 
 ###
 
