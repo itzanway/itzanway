@@ -1,18 +1,10 @@
-- 👋 Hi, I’m @itzanway
-- 👀 I’m interested in Open Source Contribution, Web Development, Cloud Computing
-- 🌱 I’m currently Studying in IIIT SURAT pursuing my B.Tech in Computer Science Engineering
-
-- [![itzanway's GitHub | Stats](https://stats.quine.sh/itzanway/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=itzanway)
-
-- [![itzanway's GitHub | Languages Over Time](https://stats.quine.sh/itzanway/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=itzanway)
-
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Anway and I'm a 3rd year Computer Science Student, from Indian Institute of Information Technology Surat</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=itzanway&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itzanway&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -52,6 +44,12 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/itzanway/itzanway/output/snake.svg" alt="Snake animation" />
+
+###
+- [![itzanway's GitHub | Stats](https://stats.quine.sh/itzanway/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=itzanway)
+
+- [![itzanway's GitHub | Languages Over Time](https://stats.quine.sh/itzanway/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=itzanway)
+
 
 ###
