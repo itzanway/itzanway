@@ -1,19 +1,134 @@
-<h1 align="center">Hi 👋, I'm Anway Durge</h1>
-<h3 align="center">A passionate Student from Indian Institute of Information Technology Surat</h3>
-
-###
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋+I'm+Anway+Durge!!!;Aspiring+Student;Full+Stack+Developer;" />
+</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itzanway&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itzanway&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://komarev.com/ghpvc/?username=itzanway&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+  <a href="https://github.com/itzanway?tab=followers">
+    <img src="https://img.shields.io/github/followers/itzanway?style=for-the-badge&logo=github&color=blue" alt="Followers"/>
+  </a>
+  <a href="https://github.com/itzanway?tab=stars">
+    <img src="https://img.shields.io/github/stars/itzanway?style=for-the-badge&logo=github&color=yellow" alt="Stars"/>
+  </a>
+</div>
+
+<h2 align="center">🧠 About Me</h2>
+
+<div align="center">
+  <table border="0" style="border-collapse: collapse; width: 100%;">
+    <tr>
+      <td width="60%" align="left" valign="top">
+        <ul>
+          <li>🎓 B.Tech student at IIIT Surat, Electronics and Communication Engineering</li>
+          <li>💻 Passionate about Machine Learning, Automation, and Web Development</li>
+          <li>☁️ Currently exploring Automation Testing, Data Structure and Algorithms, and System Design</li>
+          <li>🛠️ Building projects that merge AI with practical, real-world applications</li>
+          <li>🤝 Open to collaborations, open-source contributions, and hackathons</li>
+        </ul>
+      </td>
+      <td width="40%" align="center" valign="center">
+        <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" height="auto" alt="coding gif"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/anway-durge-5b47051b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anway durge" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/itzanway" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="itzanway" height="30" width="40" /></a>
-</p>
+<h2 align="center">💡 Recent Projects</h2>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">CodeColab</h3>
+      <div align="center">
+        <a href="https://github.com/itzanway/DevHeat-CodeColab" target="_blank">
+          <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black" alt="Repo Link"/>
+        </a>
+        <p>A collaborative code editor featuring room-based systems, code suggestions, and personalized recommendations based on user interests.</p>
+        <p><strong>Tech Stack:</strong> Django, WebSockets, JS, Hugging Face API </p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Job-bot Automation</h3>
+      <div align="center">
+        <a href="https://github.com/itzanway/job_bot" target="_blank">
+          <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black" alt="Repo Link"/>
+        </a>
+        <p> The core objective is to streamline the job search process by automating repetitive tasks such as searching, filtering, and applying to relevant job postings.</p>
+        <p><strong>Tech Stack:</strong> Python, Selenium, OpenAI/Gemini API, Web Scrapping</p>
+      </div>
+    </td>
+  </tr>
+  
+ <!-- <tr>
+    <td width="50%">
+      <h3 align="center">Twitter Sentiment Analysis</h3>
+      <div align="center">
+        <a href="https://github.com/ShauryaDusht/selenium-twitter-sentiment-analysis" target="_blank">
+          <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black" alt="Repo Link"/>
+        </a>
+        <p>Used Selenium for web scraping tweets, then performed sentiment analysis using BERT and custom NLP models.</p>
+        <p><strong>Tech Stack:</strong> Python, Selenium, BERT, TensorFlow, NLP</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Animal Classification System</h3>
+      <div align="center">
+        <a href="https://github.com/ShauryaDusht/animal-classification-flask-app" target="_blank">
+          <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black" alt="Repo Link"/>
+        </a>
+        <p>A Flask-based image recognition system using ResNet to accurately classify 15 different animal species.</p>
+        <p><strong>Tech Stack:</strong> Python, Flask, ResNet, TensorFlow, Streamlit</p>
+      </div>
+    </td>
+  </tr>-->
+</table>
+
+<h2 align="center">🛠️ Skills & Technologies</h2>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,selenium,bash,automation,cpp,c,git,github,linux,docker" style="max-width: 100%;" alt="Core & DevOps Skills" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,html,css,vscode" style="max-width: 100%;" alt="MERN Stack & Web Dev Tools" />
+</div>
+
+
+
+<h2 align="center">📊 GitHub Stats & Activity</h2>
+
+<div align="center">
+  <a href="https://github.com/itzanway/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itzanway&show_icons=true&theme=radical&rank_icon=github&ring_color=ff00f0&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage" alt="itzanway's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzanway&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
+  </a>
+</div>
+
+<div align="center">
+  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itzanway&theme=radical" alt="Profile Details" />
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itzanway/itzanway/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itzanway/itzanway/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/itzanway/itzanway/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<h2 align="center">📫 Connect with Me</h2>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/anway-durge-5b47051b3/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:durgeanway@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+<!--   <a href="https://twitter.com/shauryadusht" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a> -->
+</div>
+
+<div align="center">
+  <h3>Thanks for visiting! 😊</h3>
+  <p>Feel free to star ⭐ some repositories if you find them interesting!</p>
+</div>
