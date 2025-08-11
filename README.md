@@ -19,9 +19,9 @@
     <tr>
       <td width="60%" align="left" valign="top">
         <ul>
-          <li>🎓 B.Tech student at IIIT Surat, Electronics and Communication Engineering</li>
+          <li>🎓 B.Tech student at IIIT Surat, Computer Science Engineering</li>
           <li>💻 Passionate about Machine Learning, Automation, and Web Development</li>
-          <li>☁️ Currently exploring Automation Testing, Data Structure and Algorithms, and System Design</li>
+          <li>☁️ Currently exploring Automation Testing, Data Structure and Algorithms</li>
           <li>🛠️ Building projects that merge AI with practical, real-world applications</li>
           <li>🤝 Open to collaborations, open-source contributions, and hackathons</li>
         </ul>
