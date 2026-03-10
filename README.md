@@ -26,8 +26,8 @@
 
 # 🏆 Highlights
 
-- 🔥 Contributed to **14+ Open Source repositories**
-- ✅ 30%+ Pull Requests successfully merged
+- 🔥 Contributed to **20+ Open Source repositories**
+- ✅ 70%+ Pull Requests successfully merged
 - 🥇 Built award-winning project at hackathons
 - 🤖 Built AI-integrated automation systems
 - 🛠 Experience with real-time collaborative systems using WebSockets
@@ -80,15 +80,26 @@ An intelligent job application automation bot that:
 
 ---
 
+---
+<!-- ================= GitHub Analytics ================= -->
 # 📊 GitHub Analytics
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=itzanway&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzanway&layout=compact&theme=radical" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itzanway&theme=radical" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itzanway&theme=radical" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itzanway&theme=radical" />
+
 </div>
 
+<br>
+
 <div align="center">
-  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itzanway&theme=radical" />
+
+<img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itzanway&theme=radical"/>
+
 </div>
 
 ---
